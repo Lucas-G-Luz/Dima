@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+waj63h612CppIc8YzE/eiw+O/UjiZBABtBNdSFebTdeyEmYOigmBSRgTTlVnyL9EdPq6/v8HsrlM55xq/BVuQ==",
+  "dgSpecHash": "FFqhiMqkg4FIeWt1166r32MewWyZtz+67HwrqvSH5Wp1SL6lCHye0XHpNR61ILuVYscBZeT/8vUzS+R9hEQuJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.luz\\Dima\\Dima\\Dima.Core.csproj",
+  "projectFilePath": "D:\\dev\\Dima\\Dima.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

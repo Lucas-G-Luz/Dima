@@ -1,0 +1,5 @@
+D:\dev\Dima\obj\Debug\net8.0\Dima.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Dima\obj\Debug\net8.0\Dima.Core.AssemblyInfoInputs.cache
+D:\dev\Dima\obj\Debug\net8.0\Dima.Core.AssemblyInfo.cs
+D:\dev\Dima\obj\Debug\net8.0\Dima.Core.csproj.CoreCompileInputs.cache
+D:\dev\Dima\obj\Debug\net8.0\Dima.Core.sourcelink.json
